@@ -4,6 +4,7 @@ categories:
   - blog
 tags:
   - wettkampf
+  - beispiel
 ---
 
 Freitag, 32. Mai 2021, Goldberghalle Ohrdruf
