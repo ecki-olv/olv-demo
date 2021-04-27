@@ -1,0 +1,13 @@
+---
+title: "Demo Post"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - demo
+header:
+  image: /assets/images/logo2.jpg
+---
+
+## hey hier steht
+ein Text.
