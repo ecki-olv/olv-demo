@@ -101,8 +101,8 @@ defaults:
       related: true
       show_date: true
       toc: false
-     # header:
-     #   image: /assets/images/logo2.jpg
+      header:
+        image: /assets/images/logo2.jpg
   # _pages
   - scope:
       path: "_pages"
@@ -110,8 +110,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      #header:
-        #image: /assets/images/logo2.jpg
+      header:
+        image: /assets/images/logo2.jpg
 
 category_archive:
   type: liquid
