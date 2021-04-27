@@ -1,27 +1,13 @@
-# Minimal Mistakes remote theme starter
+## Ideen
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+* Wettkampfausschreibungen nicht als PDF, sondern direkt im Blog (extra Kategorie oder Tag "Wettkampf" oben in der Titelleiste verlinkt, die Übersichtsseite könnte dann auch gern die Ausschreibungen nach Jahren gruppieren, ähnlich wie bei der alten Seite)
+* Corona-Übersichtsseite:
+  * eine statische seite mit den ganzen Info PDFs Hygieneplan etc und zusätzlich taucht da eine Liste mit entsprechend getaggten Blogbeiträgen auf
+* Fotogalerien ebenso, dabei das hier benutzen: https://www.publicalbum.org/blog/embedding-google-photos-albums  (muss erst noch getestet werden) - für die Fotos einen extra eigenen Google-Account benutzen, 15GB Speicher sind frei
+* alles was an PDFs verlinkt werden soll, auch entweder über Google Drive (derselber extra Account) oder irgendeinen anderen Cloudanbieter mit extra Account bereitstellen (OneDrive, Dropbox, box.com,... hauptsache maximal viel kostenloser Speicher)  
+* TODO: für alles o.g. ein Beispiel bzw. eine Kopiervorlage bereitstellen
 
-Contains basic configuration to get you a site with:
+## Doku zum verwendeten Theme "Minimal Mistakes" 
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+* [MMistakes Repo](https://github.com/mmistakes/minimal-mistakes).
+* [Konfiguration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
