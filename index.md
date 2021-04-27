@@ -5,13 +5,10 @@
 #layout: home
 # vgl. https://mmistakes.github.io/minimal-mistakes/docs/layouts/#home-page-layout
 layout: home
-title: 
 header:
   image: /assets/images/logo2.jpg
 author_profile: true
 ---
-
-## Herzlich Willkommen auf der Homepage des Ohrdrufer Leichtathletik-Vereins
 
 ![OLV](/assets/images/olv.png)
 
