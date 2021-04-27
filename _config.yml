@@ -32,7 +32,6 @@ paginate_path: /page:num/
 timezone: DE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: "de"
 date_format: "%-d. %B %Y"
-teaser: /assets/images/logo2.jpg
 
 include:
   - _pages
@@ -102,8 +101,8 @@ defaults:
       related: true
       show_date: true
       toc: false
-      header:
-        image: /assets/images/logo2.jpg
+     # header:
+     #   image: /assets/images/logo2.jpg
   # _pages
   - scope:
       path: "_pages"
@@ -111,8 +110,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-        image: /assets/images/logo2.jpg
+      #header:
+        #image: /assets/images/logo2.jpg
 
 category_archive:
   type: liquid
