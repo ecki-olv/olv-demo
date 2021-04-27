@@ -12,6 +12,13 @@ author_profile: true
 
 ## Herzlich Willkommen auf der Homepage des Ohrdrufer Leichtathletik-Vereins
 
+<ul>
+  {% assign mypages = site.pages | sort: "order" %}
+    {% for page in mypages %}
+    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+    {% endfor %}
+</ul>
+
 ![OLV](/assets/images/olv.png)
 
 ![Sponsor des Ohrdrufer LV](/assets/images/logo_ohraenergie_4c.png)
