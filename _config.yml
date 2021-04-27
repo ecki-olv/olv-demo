@@ -100,7 +100,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      toc: true
+      toc: false
       header:
         image: /assets/images/logo2.jpg
   # _pages
