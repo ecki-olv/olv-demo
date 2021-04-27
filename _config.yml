@@ -32,6 +32,7 @@ paginate_path: /page:num/
 timezone: DE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: "de"
 date_format: "%-d. %B %Y"
+teaser: /assets/images/logo2.jpg
 
 include:
   - _pages
