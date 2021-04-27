@@ -14,5 +14,5 @@ author_profile: true
 
 ![OLV](/assets/images/olv.png)
 
+Sponsor des Ohrdrufer LV:
 ![Sponsor des Ohrdrufer LV](/assets/images/logo_ohraenergie_4c.png)
-Sponsor des Ohrdrufer LV
