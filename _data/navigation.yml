@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
+  - title: "Archiv"
     url: /posts/
-  - title: "Categories"
+  - title: "Kategorien"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
+  - title: "Über uns"
     url: /about/
+  - title: "Kontakt"
+    url: /kontakt/
+  - title: "Impressum"
+    url: /impressum/
