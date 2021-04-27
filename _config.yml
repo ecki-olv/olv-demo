@@ -101,6 +101,8 @@ defaults:
       related: true
       show_date: true
       toc: true
+      header:
+        image: /assets/images/logo2.jpg
   # _pages
   - scope:
       path: "_pages"
