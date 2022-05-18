@@ -124,6 +124,14 @@ defaults:
       author_profile: true
       header:
         #image: /assets/images/logo2.jpg
+  - scope:
+      path: "assets/ergebnisse"
+    values:
+      doctype: "ergebnis"
+  - scope:
+      path: "assets/ergebnisse/2015"
+    values:
+      year: "2015"
 
 category_archive:
   type: liquid
