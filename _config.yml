@@ -64,10 +64,10 @@ author:
   links:
     - label: "Trainingsinformationen"
       icon: "fas fa-fw fa-link"
-      url: "{{ site.baseurl }}/training"
+      url: "{{ site.baseurl }}/training/"
     - label: "Infos zu Corona"
       icon: "fas fa-fw fa-link"
-      url: "{{ site.baseurl }}/intern"
+      url: "{{ site.baseurl }}/intern/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
