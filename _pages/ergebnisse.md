@@ -13,7 +13,7 @@ title: "Ergebnisse aller OLV-Wettkämpfe ab 2010"
   {% assign monat = eventdate | slice: 4, 2 %}
   {% assign tag = eventdate | slice: 6, 2 %}
   
-  {% assign eventname = file.basename | split: '_' | join: " " %}
+  {% assign eventname = file.basename | split: '_' | shift | join: " " %}
   * {{ tag }}.{{ monat }}.{{ jahr }}: <a href="{{ file.path | relative_url }}">{{ eventname }} </a>
 
 {% endfor %}
