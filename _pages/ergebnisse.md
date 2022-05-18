@@ -6,7 +6,7 @@ toc_label: "Archivjahre"
 toc_icon: "running"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-{% for jahr in (2010..2022) %}
+{% for jahr in ( (2010..2022) | reverse ) %}
 ## {{ jahr }}
 
 {% assign yearstring = jahr | prepend: '/' | append: '/' %}
