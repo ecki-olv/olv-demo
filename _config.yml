@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ohrdrufer Leichtathletik Verein
-email:
+email: info@ohrdrufer-lv.de
 description: >- # this means to ignore newlines until "baseurl:"
   Webseite des Sportvereins OLV
 #twitter_username: username
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "OLV"
   avatar : "/assets/images/logo_klein.jpg"
-  bio    : "Herzlich willkommen auf unserer neugestalteten Webseite"
+  bio    : "Webseite des Ohrdrufer LV"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,9 +68,9 @@ author:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ecki-olv/olv-demo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -102,7 +102,7 @@ defaults:
       show_date: true
       toc: false
       header:
-        image: /assets/images/logo2.jpg
+        #image: /assets/images/logo2.jpg
   # _pages
   - scope:
       path: "_pages"
@@ -111,7 +111,7 @@ defaults:
       layout: single
       author_profile: true
       header:
-        image: /assets/images/logo2.jpg
+        #image: /assets/images/logo2.jpg
 
 category_archive:
   type: liquid
