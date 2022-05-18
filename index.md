@@ -7,6 +7,8 @@
 layout: home
 header:
   #image: /assets/images/logo2.jpg
+sidebar:
+  nav: "sidebar"
 author_profile: true
 ---
 
