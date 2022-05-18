@@ -88,7 +88,7 @@ author:
       url: "https://www.leichtathletik.de/"
 
 sidebar:
-  nav: "docs"
+  nav: "sidebar"
   
 footer:
   links:
