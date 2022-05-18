@@ -5,7 +5,7 @@ title: "OLV-Wettkämpfe aktuell"
 
 Hier finden Sie Informationen über die Wettkämpfe des OLV im Jahr 2022.
 
-**[Ergebnisse bereits durchgeführter Wettkämpfe liegen im Ergebnis-Archiv.](/ergebisse)**
+**[Ergebnisse bereits durchgeführter Wettkämpfe liegen im Ergebnis-Archiv.]({{ site.url }}/ergebnisse/)**
 
 
 TODO: >>> Alle Ausschreibungen des OLV für das Wettkampfjahr 2022 in einer pdf <<< 
