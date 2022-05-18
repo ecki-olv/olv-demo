@@ -1,12 +1,22 @@
 main:
-  - title: "Archiv"
-    url: /posts/
-  - title: "Kategorien"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  #- title: "Archiv"
+  #  url: /posts/
+  #- title: "Kategorien"
+  #  url: /categories/
+  #- title: "Tags"
+  #  url: /tags/
+  - title: "Startseite"
+    url: /
+  - title: "Wettkämpfe aktuell"
+    url: /wettkaempfe
+  - title: "Ergebnis-Archiv"
+    url: /ergebnisse
   - title: "Über uns"
     url: /about/
+  - title: "Training"
+    url: /training/
+  - title: "Internes"
+    url: /intern/
   - title: "Kontakt"
     url: /kontakt/
   - title: "Impressum"
