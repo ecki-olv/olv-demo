@@ -13,7 +13,6 @@ Hier finden Sie Informationen über die Wettkämpfe des OLV im Jahr 2022.
 
 [Alle Ausschreibungen des OLV für das Wettkampfjahr 2022 in einer pdf](http://ohrdrufer-lv.de/olv_Umbau/inhalt/wettkaempfe/2022/Wettkampfausschreibungen%20OLV%202022%20-%20Stand_12.03.2022.pdf)
 
-<
 {% for wk  in site.data.wettkaempfe %}
 ### {{ wk.datum | date: "%d.%m.%Y" }} {{ wk.name }}
 
