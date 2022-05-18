@@ -78,13 +78,13 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "Stadt Ohrdruf"
-      icon: "fab fa-fw fa-up-right-from-square"
+      icon: "fab fa-fw fa-angles-right"
       url: "https://www.ohrdruf.de/"
     - label: "Thüringer LV"
-      icon: "fab fa-fw fa-up-right-from-square"
+      icon: "fab fa-fw fa-angles-right"
       url: "https://www.tlv-sport.de/"
     - label: "leichtathletik.de"
-      icon: "fab fa-fw fa-up-right-from-square"
+      icon: "fab fa-fw fa-angles-right"
       url: "https://www.leichtathletik.de/"
 
 footer:
