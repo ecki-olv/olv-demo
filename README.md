@@ -13,11 +13,15 @@
 * Lade PDFs und andere Anmeldedokumente hoch nach `/assets/wettkaempfe/20XX` in den passenden Jahresordner
 * Bearbeite `_data/wettkaempfe.yml` und füge dort einen neuen Eintrag hinzu, dort kannst du auf die Anmeldedokumente verweisen. Wie das geht, kannst du anhand der bereits vorhandenen Einträge sehen.
 
-### Wettkampfergebnisse veröffentlichen will?
+### ich Wettkampfergebnisse veröffentlichen will?
 * Lade die Datei ins Verzeichnis `assets/ergebnisse/20XX` in das passenden Jahresverzeichnis hoch und benenne die Datei nach dem Schema `YYYMMDD-Thema.pdf` also z.B. `20220623-Juni-Wettkampf-Ergebnisse.pdf` - es sind auch andere Dateiendungen wie z.B. html, doc möglich. Nach ein paar Minuten wird der Eintrag automatisch auf der neu generierten Webseite sichtbar sein.
 
-### bei Jahreswechsel
+### ein Jahreswechsel ansteht und ich die Wettkampfseite aktualisieren will?
 * evtl. neue Wettkampf-Datenseite? Die alte Seite archivieren/umbenennen?? - abklären.
+
+### ich Neuigkeiten (auf der Startseite) veröffentlichen will?
+frag Steffi.
+
 
 ## Doku zum verwendeten Theme "Minimal Mistakes" 
 
