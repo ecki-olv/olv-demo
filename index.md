@@ -6,7 +6,7 @@
 # vgl. https://mmistakes.github.io/minimal-mistakes/docs/layouts/#home-page-layout
 layout: home
 header:
-  image: /assets/images/logo2.jpg
+  #image: /assets/images/logo2.jpg
 author_profile: true
 ---
 
