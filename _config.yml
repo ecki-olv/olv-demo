@@ -62,9 +62,12 @@ author:
   avatar : "/assets/images/logo_klein.jpg"
   bio    : "Webseite des Ohrdrufer LV"
   links:
-    - label: "Website"
+    - label: "Trainingsinformationen"
       icon: "fas fa-fw fa-link"
-      url: "https://ecki-olv.github.io/olv-demo/"
+      url: "/training"
+    - label: "Infos zu Corona"
+      icon: "fas fa-fw fa-link"
+      url: "/intern"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -74,6 +77,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Stadt Ohrdruf"
+      icon: "fab fa-fw fa-up-right-from-square"
+      url: "https://www.ohrdruf.de/"
+    - label: "Thüringer LV"
+      icon: "fab fa-fw fa-up-right-from-square"
+      url: "https://www.tlv-sport.de/"
+    - label: "leichtathletik.de"
+      icon: "fab fa-fw fa-up-right-from-square"
+      url: "https://www.leichtathletik.de/"
 
 footer:
   links:
@@ -94,7 +106,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: false
       share: true
