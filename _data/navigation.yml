@@ -19,3 +19,11 @@ main:
     url: /kontakt/
   - title: "Impressum"
     url: /impressum/
+
+sidebar:
+  - title: Wichtige Links
+    children:
+      - title: "Corona Infos"
+        url: /intern/
+      - title: "Trainingsinfos"
+        url: /training/
