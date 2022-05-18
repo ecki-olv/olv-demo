@@ -87,9 +87,6 @@ author:
       icon: "fab fa-fw fa-arrow-right"
       url: "https://www.leichtathletik.de/"
 
-sidebar:
-  nav: "sidebar"
-  
 footer:
   links:
    # - label: "Twitter"
@@ -118,6 +115,8 @@ defaults:
       toc: false
       header:
         #image: /assets/images/logo2.jpg
+      sidebar:
+        nav: "sidebar"
   # _pages
   - scope:
       path: "_pages"
@@ -127,7 +126,9 @@ defaults:
       author_profile: true
       header:
         #image: /assets/images/logo2.jpg
-  - scope:
+      sidebar:
+        nav: "sidebar"
+- scope:
       path: "assets/ergebnisse"
     values:
       doctype: "ergebnis"
