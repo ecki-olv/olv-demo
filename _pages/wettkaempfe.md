@@ -8,7 +8,7 @@ toc_icon: "running"  # corresponding Font Awesome icon name (without fa prefix)
 
 Hier finden Sie Informationen über die Wettkämpfe des OLV im Jahr 2022.
 
-**[Ergebnisse bereits durchgeführter Wettkämpfe liegen im Ergebnis-Archiv.]({{ site.url }}/ergebnisse/)**
+**[Ergebnisse bereits durchgeführter Wettkämpfe liegen im Ergebnis-Archiv.]({{ "/ergebnisse/" | relative_url }})**
 
 
 TODO: >>> Alle Ausschreibungen des OLV für das Wettkampfjahr 2022 in einer pdf <<< 
