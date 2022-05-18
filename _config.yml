@@ -87,6 +87,9 @@ author:
       icon: "fab fa-fw fa-arrow-right"
       url: "https://www.leichtathletik.de/"
 
+sidebar:
+  nav: "docs"
+  
 footer:
   links:
    # - label: "Twitter"
