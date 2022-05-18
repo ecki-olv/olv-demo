@@ -128,10 +128,14 @@ defaults:
         #image: /assets/images/logo2.jpg
       sidebar:
         nav: "sidebar"
-- scope:
+  - scope:
       path: "assets/ergebnisse"
     values:
       doctype: "ergebnis"
+  - scope:
+      path: "assets/wettkaempfe"
+    values:
+      doctype: "wettkampf"
   - scope:
       path: "assets/ergebnisse/2015"
     values:
