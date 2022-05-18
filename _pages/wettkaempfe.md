@@ -14,6 +14,7 @@ Hier finden Sie Informationen über die Wettkämpfe des OLV im Jahr 2022.
 TODO: >>> Alle Ausschreibungen des OLV für das Wettkampfjahr 2022 in einer pdf <<< 
 
 
-{% for file in site.static_files |  where: "doctype" , "wettkampf" %}
-  * <a href="{{ file.path | relative_url }}">{{ file.name }} </a>
+{% assign files = site.static_files  | where: "doctype", "wettkampf" %}
+{% for file in files %}
+* <a href="{{ file.path | relative_url }}">{{ file.name }} </a>
 {% endfor %}
