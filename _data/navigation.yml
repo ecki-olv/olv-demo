@@ -5,8 +5,6 @@ main:
   #  url: /categories/
   #- title: "Tags"
   #  url: /tags/
-  - title: "Startseite"
-    url: /
   - title: "Wettkämpfe aktuell"
     url: /wettkaempfe
   - title: "Ergebnis-Archiv"
