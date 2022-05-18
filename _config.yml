@@ -81,10 +81,10 @@ author:
       icon: "fab fa-fw fa-angles-right"
       url: "https://www.ohrdruf.de/"
     - label: "Thüringer LV"
-      icon: "fab fa-fw fa-angles-right"
+      icon: "fab fa-fw fa-arrow-right"
       url: "https://www.tlv-sport.de/"
     - label: "leichtathletik.de"
-      icon: "fab fa-fw fa-angles-right"
+      icon: "fab fa-fw fa-arrow-right"
       url: "https://www.leichtathletik.de/"
 
 footer:
