@@ -23,7 +23,9 @@ main:
 sidebar:
   - title: Wichtige Links
     children:
-      - title: "Corona Infos"
-        url: /intern/
-      - title: "Trainingsinfos"
-        url: /training/
+      - title: "Instagram"
+        url: "https://instagram.com/lv_ohrdruf/"
+      - title: "Thüringer LV"
+        url: "https://www.tlv-sport.de/"
+      - title: "leichtathletik.de"
+        url: "https://www.leichtathletik.de/"
