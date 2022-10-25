@@ -23,6 +23,8 @@ main:
 sidebar:
   - title: Wichtige Links
     children:
+      - title: "Stadt Ohrdruf"
+        url: "https://www.ohrdruf.de/"
       - title: "Instagram"
         url: "https://instagram.com/lv_ohrdruf/"
       - title: "Thüringer LV"
