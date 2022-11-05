@@ -7,7 +7,7 @@
   info: Start und Ziel an den Sportstätten am Goldberg Ohrdruf
   dateien:
   - text: Ausschreibung
-    pfad: "wettkaempfe/2022/202204/Osterferienspaziergang_OLV-NEU_23.04.2022.pdf"
+    pfad: "../assets/wettkaempfe/2022/202204/Osterferienspaziergang_OLV-NEU_23.04.2022.pdf"
 
 - name: Stunden-, Halbstunden-, Viertelstundenlauf des Ohrdrufer LV - 1. Challenge
   datum: 2022-04-27
