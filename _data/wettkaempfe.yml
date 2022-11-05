@@ -9,7 +9,7 @@
   - text: Ausschreibung
     pfad: "/wettkaempfe/2022/202204/Osterferienspaziergang_OLV-NEU_23.04.2022.pdf"
 
-- name: Stunden-, Halbstunden-, Viertelstundenlauf des Ohrdrufer LV - 1. Challenge
+- name: "Stunden-, Halbstunden-, Viertelstundenlauf des Ohrdrufer LV - 1. Challenge"
   datum: 2022-04-27
   info: |
     Sportstätten am Goldberg Ohrdruf
@@ -24,3 +24,48 @@
     pfad: "/wettkaempfe/2022/20220507/2022_05_07_Fr%C3%BChjahrssportfest_Infoblatt.pdf"
   - pfad: "/wettkaempfe/2022/20220507/Fr%C3%BChjahrssportfest_2022_05_07_ZEITPLAN_Stand_30.04.2022.pdf"
     text: Zeitplan - Stand 30.04.2022
+- name: "Sprungabend des Ohrdrufer LV"
+  datum: 2022-05-25
+  info: |
+    Sportstätten am Goldberg Ohrdruf
+    ab 17:00
+- name: "Stunden-, Halbstunden-, Viertelstundenlauf des Ohrdrufer LV - 2. Challenge"
+  datum: 2022-05-25
+  info: |
+    Sportstätten am Goldberg Ohrdruf
+    ab 17:00
+- name: "17. Pfingstmeeting des Ohrdrufer LV"
+  datum: 2022-06-04
+  info: |
+    Sportstätten am Goldberg Ohrdruf
+    10:00 - 17:00
+- name: "25. Partner-Vierkampf des Ohdrufer LV"
+  datum: 2022-07-01
+  info: |
+    Sportstätten am Goldberg Ohrdruf
+    ab 17:00
+- name: "Stunden-, Halbstunden-, Viertelstundenlauf des Ohrdrufer LV - 3. Challenge"
+  datum: 2022-09-16
+  info: |
+    Sportstätten am Goldberg Ohrdruf
+    ab 17:00
+- name: "Herbstsportfest"
+  datum: 2022-09-24
+  info: |
+    Sportstätten am Goldberg Ohrdruf
+    ab 10:00
+- name: "Stunden-, Halbstunden-, Viertelstundenlauf des Ohrdrufer LV - 4. Challenge"
+  datum: 2022-10-07
+  info: |
+    Sportstätten am Goldberg Ohrdruf
+    ab 17:00    
+- name: "Crosslauf am Goldberg"
+  datum: 2022-09-24
+  info: |
+    Gelände am Goldberg, Sportstätten am Goldberg Ohrdruf
+    ab 10:00    
+- name: "Hallen-Sprungmeeting"
+  datum: 2022-09-16
+  info: |
+    Goldberghalle Ohrdruf
+    ab 10:00    
