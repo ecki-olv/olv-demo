@@ -1,10 +1,9 @@
 ---
-title: "XYZ-Beispiel-Wettkampf"
+title: "Neue Wettkämpfe für 2023 demnächst"
 categories:
   - blog
 tags:
   - wettkampf
-  - beispiel
 ---
 
 Freitag, 32. Mai 2021, Goldberghalle Ohrdruf
