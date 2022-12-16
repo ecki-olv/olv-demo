@@ -4,7 +4,6 @@ categories:
   - blog
 tags:
   - galerie
- ---
 gallery:
   - image_path: /assets/images/2022-12-14/2022_05_25_Bilder_Homepage-001.jpg
     url: /assets/images/2022-12-14/2022_05_25_Bilder_Homepage-001.jpg
