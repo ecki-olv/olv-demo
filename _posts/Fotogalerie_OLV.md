@@ -24,7 +24,10 @@ gallery:
     url: /assets/images/2022-12-14/2022_11_12_Ergebnis_Hallensportfest-2.jpg
   - image_path: /assets/images/2022-12-14/2022_11_19_Cross.jpg
     url: /assets/images/2022-12-14/2022_11_19_Cross.jpg
+---
+
+* Bilder des Wettkampfjahres 2022
 
 {% include gallery %}
 
-* Bilder des Wettkampfjahres 2022
+
